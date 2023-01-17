@@ -4,6 +4,25 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+
+    <PackadeId>Test_Rocha123</PackadeId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Raphael Rocha</Authors>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>Extension to convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/RochaRaphael/Automatic_Deploy</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/RochaRaphael/Automatic_Deploy</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;decimal;convert;rocha</PackageTags>
+    <Title>Test_Rocha123</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
